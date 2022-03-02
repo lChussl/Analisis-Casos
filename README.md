@@ -1,2 +1,2 @@
 # Analisis-Casos
-Casos de Jesús Araya Chaves GR1
+Casos y quices de Jesús Araya Chaves GR1
